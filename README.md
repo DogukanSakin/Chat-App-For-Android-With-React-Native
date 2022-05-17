@@ -17,16 +17,16 @@
 
 ## Real Android Device ScreenShots
 
-<img src="https://user-images.githubusercontent.com/86911611/168690230-d8b69544-f39f-4097-9a82-0fec60e62afa.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690244-f790ae7b-3d29-46fc-b178-aee28f6d72b9.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690261-2fd26ef2-9a87-432d-b9dd-e6c28be330f2.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690278-72d952cc-4fc7-43a3-8f71-e920f38d5a2d.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690304-03d50927-78fd-406f-82fd-dfe59df56a51.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690320-312d3452-4101-47a6-afc3-0a7d95b399cb.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690374-341d2079-808a-4f99-870c-b9b66782f51b.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690385-1bfd73a8-4fd6-4bdc-adfb-f54702f1f967.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690401-013c1dc4-22fb-485d-b30f-f2c4dca3b0f0.jpg" width="440" height="800" /><img/>
-<img src="https://user-images.githubusercontent.com/86911611/168690412-8f3e2cde-d9c9-4769-9220-956b4bd76156.jpg" width="440" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690230-d8b69544-f39f-4097-9a82-0fec60e62afa.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690244-f790ae7b-3d29-46fc-b178-aee28f6d72b9.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690261-2fd26ef2-9a87-432d-b9dd-e6c28be330f2.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690278-72d952cc-4fc7-43a3-8f71-e920f38d5a2d.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690304-03d50927-78fd-406f-82fd-dfe59df56a51.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690320-312d3452-4101-47a6-afc3-0a7d95b399cb.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690374-341d2079-808a-4f99-870c-b9b66782f51b.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690385-1bfd73a8-4fd6-4bdc-adfb-f54702f1f967.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690401-013c1dc4-22fb-485d-b30f-f2c4dca3b0f0.jpg" width="420" height="800" /><img/>
+<img src="https://user-images.githubusercontent.com/86911611/168690412-8f3e2cde-d9c9-4769-9220-956b4bd76156.jpg" width="420" height="800" /><img/>
 ## Installation
 
 Clone this repository on your local machine.
