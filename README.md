@@ -16,7 +16,7 @@
 - [Date FNS](https://date-fns.org/) for calculate message sending time
 
 ## Real Android Device ScreenShots
-
+<div align='center'>
 <img src="https://user-images.githubusercontent.com/86911611/168690230-d8b69544-f39f-4097-9a82-0fec60e62afa.jpg" width="410" height="800" /><img/>
 <img src="https://user-images.githubusercontent.com/86911611/168690244-f790ae7b-3d29-46fc-b178-aee28f6d72b9.jpg" width="410" height="800" /><img/>
 <img src="https://user-images.githubusercontent.com/86911611/168690261-2fd26ef2-9a87-432d-b9dd-e6c28be330f2.jpg" width="410" height="800" /><img/>
@@ -27,6 +27,7 @@
 <img src="https://user-images.githubusercontent.com/86911611/168690385-1bfd73a8-4fd6-4bdc-adfb-f54702f1f967.jpg" width="410" height="800" /><img/>
 <img src="https://user-images.githubusercontent.com/86911611/168690401-013c1dc4-22fb-485d-b30f-f2c4dca3b0f0.jpg" width="410" height="800" /><img/>
 <img src="https://user-images.githubusercontent.com/86911611/168690412-8f3e2cde-d9c9-4769-9220-956b4bd76156.jpg" width="410" height="800" /><img/>
+</div>
 ## Installation
 
 Clone this repository on your local machine.
